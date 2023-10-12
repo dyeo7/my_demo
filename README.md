@@ -8,12 +8,12 @@ Let's add a list of things I like:
 + UCLA
 + git
 + python!
-Lakers
-Gym
++ Lakers
++ Gym
 
 Let's add more stuff!
 
 Things I don't like
 + cockroaches
-mosquitoes
-spiders
++ mosquitoes
++ spiders
